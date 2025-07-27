@@ -1,5 +1,4 @@
 [
-  // Nivel Básico
   { "en": "Hello", "es": "Hola", "nivel": "basico" },
   { "en": "Good morning", "es": "Buenos días", "nivel": "basico" },
   { "en": "I am fine", "es": "Estoy bien", "nivel": "basico" },
@@ -10,8 +9,6 @@
   { "en": "This is my book", "es": "Este es mi libro", "nivel": "basico" },
   { "en": "I live in Mexico", "es": "Vivo en México", "nivel": "basico" },
   { "en": "It is cold today", "es": "Hace frío hoy", "nivel": "basico" },
-
-  // Nivel Intermedio
   { "en": "I'm looking for a hotel", "es": "Estoy buscando un hotel", "nivel": "intermedio" },
   { "en": "She doesn’t like vegetables", "es": "A ella no le gustan las verduras", "nivel": "intermedio" },
   { "en": "Can you help me with this?", "es": "¿Puedes ayudarme con esto?", "nivel": "intermedio" },
@@ -22,8 +19,6 @@
   { "en": "They have been to Paris", "es": "Ellos han estado en París", "nivel": "intermedio" },
   { "en": "I usually get up at 7", "es": "Usualmente me levanto a las 7", "nivel": "intermedio" },
   { "en": "We went to the beach last weekend", "es": "Fuimos a la playa el fin de semana pasado", "nivel": "intermedio" },
-
-  // Nivel Avanzado
   { "en": "If I had studied, I would have passed", "es": "Si hubiera estudiado, habría aprobado", "nivel": "avanzado" },
   { "en": "She should have told me the truth", "es": "Ella debería haberme dicho la verdad", "nivel": "avanzado" },
   { "en": "Despite the rain, they continued playing", "es": "A pesar de la lluvia, continuaron jugando", "nivel": "avanzado" },
