@@ -86,7 +86,7 @@
   { "en": "I like the mountains", "es": "Me gustan las montañas", "nivel": "basico" },
   { "en": "I feel good", "es": "Me siento bien", "nivel": "basico" },
   { "en": "I feel sick", "es": "Me siento enfermo", "nivel": "basico" },
-    { "en": "I am busy", "es": "Estoy ocupado", "nivel": "basico" },
+  { "en": "I am busy", "es": "Estoy ocupado", "nivel": "basico" },
   { "en": "I am free", "es": "Estoy libre", "nivel": "basico" },
   { "en": "What do you want?", "es": "¿Qué quieres?", "nivel": "basico" },
   { "en": "I want water", "es": "Quiero agua", "nivel": "basico" },
