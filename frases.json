@@ -15,7 +15,7 @@
   { "en": "I have a dog", "es": "Tengo un perro", "nivel": "basico" },
   { "en": "I like coffee", "es": "Me gusta el café", "nivel": "basico" },
   { "en": "It's cold today", "es": "Hace frío hoy", "nivel": "basico" },
-  { "en": "I am hungry", "es": "Tengo hambre", "nivel": "basico", "img: "eat" },
+  { "en": "I am hungry", "es": "Tengo hambre", "nivel": "basico", "img": "eat" },
   { "en": "Where is the bathroom?", "es": "¿Dónde está el baño?", "nivel": "basico" },
   { "en": "She is my sister", "es": "Ella es mi hermana", "nivel": "basico" },
   { "en": "I am learning English", "es": "Estoy aprendiendo inglés", "nivel": "basico" },
