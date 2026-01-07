@@ -90,7 +90,7 @@
   { "en": "I am free", "es": "Estoy libre", "nivel": "basico" },
   { "en": "What do you want?", "es": "¿Qué quieres?", "nivel": "basico" },
   { "en": "I want water", "es": "Quiero agua", "nivel": "basico" },
-  { "en": "I want food", "es": "Quiero comida", "nivel": "basico" },
+  { "en": "I want food", "es": "Quiero comida", "nivel": "basico", "img": "eat" },
   { "en": "Come with me", "es": "Ven conmigo", "nivel": "basico" },
   { "en": "Wait a minute", "es": "Espera un minuto", "nivel": "basico" },
   { "en": "Hurry up", "es": "Date prisa", "nivel": "basico" },
