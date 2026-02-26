@@ -84,7 +84,7 @@
   { "en": "I need to buy a new jacket", "es": "Necesito comprar una chaqueta nueva", "nivel": "intermedio", "img": "chaqueta" },
   { "en": "They invited us to the party", "es": "Ellos nos invitaron a la fiesta", "nivel": "intermedio", "img": "baile" },
   { "en": "We are learning English together", "es": "Estamos aprendiendo inglés juntos", "nivel": "intermedio", "img": "estudiando2" },
-  { "en": "The movie was very exciting", "es": "La película fue muy emocionante", "nivel": "intermedio",  "img": "watching-a-movie" },
+  { "en": "The movie was very exciting", "es": "La película fue muy emocionante", "nivel": "intermedio", "img": "watching-a-movie" },
   { "en": "She was reading when I arrived", "es": "Ella estaba leyendo cuando llegué", "nivel": "intermedio", "img": "ella-lee" },
   { "en": "We were talking on the phone", "es": "Estábamos hablando por teléfono", "nivel": "intermedio", "img": "llamada-telefonica" },
   { "en": "I met him when I was a child", "es": "Lo conocí cuando era un niño", "nivel": "intermedio", "img": "recreo" },
