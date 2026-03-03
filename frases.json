@@ -83,8 +83,8 @@
   { "en": "She dances very well", "es": "Ella baila muy bien", "nivel": "basico", "img": "danza" },
   { "en": "I take photos", "es": "Tomo fotos", "nivel": "basico", "img": "camara" },
   { "en": "We go hiking on Sundays", "es": "Vamos a caminar los domingos", "nivel": "basico", "img": "caminar" },
-  { "en": "We do not drink milk", "es": "No tomamos leche", "nivel": "basico", "img": "leche" }
-  { "en": "The cow eats grass", "es": "La vaca come pasto", "nivel": "basico", "img": "vaca" }
+  { "en": "We do not drink milk", "es": "No tomamos leche", "nivel": "basico", "img": "leche" },
+  { "en": "The cow eats grass", "es": "La vaca come pasto", "nivel": "basico", "img": "vaca" },
   { "en": "The soccer ball is new", "es": "El balón de fútbol es nuevo", "nivel": "basico", "img": "balon" },
   { "en": "I play poker with my friends", "es": "Juego póker con mis amigos", "nivel": "basico", "img": "poker" },
   { "en": "The frog is green", "es": "La rana es verde", "nivel": "basico", "img": "rana" },
