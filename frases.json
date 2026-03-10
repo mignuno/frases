@@ -244,5 +244,7 @@
   { "en": "We hiked for hours until we finally reached the waterfall", "es": "Caminamos durante horas hasta que finalmente llegamos a la cascada", "nivel": "avanzado", "img": "cascada" },
   { "en": "The lawyer explained the situation clearly so that everyone could understand", "es": "El abogado explicó la situación claramente para que todos pudieran entender", "nivel": "avanzado", "img": "abogado" },
   { "en": "The pilot announced that the flight would be delayed due to bad weather", "es": "El piloto anunció que el vuelo se retrasaría debido al mal clima", "nivel": "avanzado", "img": "piloto" },
-  { "en": "We went to a restaurant that serves traditional Mexican food", "es": "Fuimos a un restaurante que sirve comida tradicional mexicana", "nivel": "avanzado", "img": "restaurante" }
+  { "en": "We went to a restaurant that serves traditional Mexican food", "es": "Fuimos a un restaurante que sirve comida tradicional mexicana", "nivel": "avanzado", "img": "restaurante" },
+  { "en": "After years of hard work, they finally built the house of their dreams", "es": "Después de años de trabajo duro, finalmente construyeron la casa de sus sueños", "nivel": "avanzado", "img": "house" },
+  { "en": "Even after everything that happened, I can honestly say that I am doing well", "es": "Incluso después de todo lo que pasó, honestamente puedo decir que estoy bien", "nivel": "avanzado", "img": "fine" }
 ]
