@@ -231,7 +231,7 @@
   { "en": "She was sad after realizing that things would never be the same again", "es": "Ella estaba triste después de darse cuenta de que las cosas nunca volverían a ser iguales", "nivel": "avanzado", "img": "sad" },
   { "en": "I was tired because I had worked all day", "es": "Estaba cansado porque había trabajado todo el día", "nivel": "avanzado", "img": "tired" },
   { "en": "He is truly happy now that he has achieved his lifelong dream", "es": "Él está realmente feliz ahora que ha logrado el sueño de toda su vida", "nivel": "avanzado", "img": "happy" },
-  { "en": "The exact location of the hidden village remained a mystery for many years", "es": "La ubicación exacta de la aldea oculta siguió siendo un misterio durante muchos años", "nivel": "avanzado", "img": "location" },
+  { "en": "The exact location of the village remained a mystery for many years", "es": "La ubicación exacta de la aldea siguió siendo un misterio durante muchos años", "nivel": "avanzado", "img": "location" },
   { "en": "Despite everything she went through, she is doing very well now", "es": "A pesar de todo lo que pasó, ella está muy bien ahora", "nivel": "avanzado", "img": "nice" },
   { "en": "He eventually falls asleep while watching television late at night", "es": "Finalmente se queda dormido mientras ve la televisión a altas horas de la noche", "nivel": "avanzado", "img": "sleep" },
   { "en": "He was having dinner quietly while discussing his plans", "es": "El estaba cenando tranquilamente mientras discutía sus planes", "nivel": "avanzado", "img": "eat" },
