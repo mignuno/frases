@@ -138,7 +138,7 @@
   { "en": "He became very rich", "es": "Se volvió muy rico", "nivel": "basico", "img": "rico" },
   { "en": "I'm looking for a hotel", "es": "Estoy buscando un hotel", "nivel": "basico", "img": "hotel" },
   { "en": "They have been to Paris", "es": "Ellos han estado en París", "nivel": "basico", "img": "paris" },
-   { "en": "Bring your umbrella", "es": "Lleva tu paraguas", "nivel": "intermedio", "img": "paraguas" },
+   { "en": "Bring your umbrella", "es": "Lleva tu paraguas", "nivel": "basico", "img": "paraguas" },
   { "en": "We decided to stay at a hotel near the beach", "es": "Decidimos hospedarnos en un hotel cerca de la playa", "nivel": "intermedio", "img": "hotel" },
   { "en": "I recommend you visit the city museum", "es": "Te recomiendo visitar el museo de la ciudad", "nivel": "intermedio", "img": "museo" },
   { "en": "I am at school studying for my exam", "es": "Estoy en la escuela estudiando para mi examen", "nivel": "intermedio", "img": "school" },
