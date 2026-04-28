@@ -106,7 +106,7 @@
   { "en": "She is crying", "es": "Ella está llorando", "nivel": "basico", "img": "llorar" },
   { "en": "I use my bicycle every day", "es": "Uso mi bicicleta todos los días", "nivel": "basico", "img": "bicicleta" },
   { "en": "The lock is on the door", "es": "El candado está en la puerta", "nivel": "basico", "img": "candado" },
-  { "en": "I pay with my credit card", "es": "Pago con mi tarjeta de crédito", "nivel": "basico", "img": "tarjeta" },
+  { "en": "I paid with my credit card", "es": "Pagué con mi tarjeta de crédito", "nivel": "basico", "img": "tarjeta" },
   { "en": "The printer is on the desk", "es": "La impresora está en el escritorio", "nivel": "basico", "img": "impresora" },
   { "en": "The camera is for surveillance", "es": "La cámara es para vigilancia", "nivel": "basico", "img": "cctv" },
   { "en": "I need medicine", "es": "Necesito medicina", "nivel": "basico", "img": "medicina" },
